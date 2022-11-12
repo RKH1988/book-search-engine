@@ -20,13 +20,7 @@
 - Repo: https://github.com/RKH1988/book-search-engine
 
 Front-End Specifications
-You'll need to create the following front-end files:
 
-mutations.js:
-
-REMOVE_BOOK will execute the removeBook mutation.
-
-Additionally, you’ll need to complete the following tasks in each of these front-end files:
 
 App.js: Create an Apollo Provider to make every request work with the Apollo server.
 
