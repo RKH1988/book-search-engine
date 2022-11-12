@@ -1,6 +1,7 @@
 # Book Search Engine
 
 ## Description
+This app uses Google Books API search engine built with a RESTful API to allow users to save book searches to the back end.
 
 ## Technologies Used
 - MERN
@@ -11,8 +12,6 @@
 - React
 - Mongoose
 - Heroku
-
-## Screenshots
 
 ## Links
 - Deployed Site: 
