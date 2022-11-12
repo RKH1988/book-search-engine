@@ -19,19 +19,8 @@
 - Deployed Site: 
 - Repo: https://github.com/RKH1988/book-search-engine
 
-
-Back-End Specifications
-You’ll need to complete the following tasks in each of these back-end files:
-
-Schemas directory:
-
-typeDefs.js: Define the necessary Query and Mutation types:
-
-
 Front-End Specifications
 You'll need to create the following front-end files:
-
-queries.js: This will hold the query GET_ME, which will execute the me query set up using Apollo Server.
 
 mutations.js:
 
