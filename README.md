@@ -23,8 +23,6 @@
 Back-End Specifications
 You’ll need to complete the following tasks in each of these back-end files:
 
-server.js: Implement the Apollo Server and apply it to the Express server as middleware.
-
 Schemas directory:
 
 index.js: Export your typeDefs and resolvers.
