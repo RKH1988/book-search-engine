@@ -21,9 +21,6 @@
 
 Front-End Specifications
 
-
-App.js: Create an Apollo Provider to make every request work with the Apollo server.
-
 SearchBooks.js:
 
 Use the Apollo useMutation() Hook to execute the SAVE_BOOK mutation in the handleSaveBook() function instead of the saveBook() function imported from the API file.
