@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "- MERN\r - MongoDB\r - Node.js/Express.js\r - GraphQL with Apollo Server",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RKH1988/book-search-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RKH1988/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/RKH1988/book-search-engine#readme"
 }
