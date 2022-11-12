@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/RKH1988/book-search-engine/issues"
   },
-  "homepage": "https://github.com/RKH1988/book-search-engine#readme"
+  "homepage": "https://github.com/RKH1988/book-search-engine#readme",
+  "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.8.0",
+    "jsonwebtoken": "^8.5.1"
+  }
 }
