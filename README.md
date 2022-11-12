@@ -25,8 +25,6 @@ You’ll need to complete the following tasks in each of these back-end files:
 
 Schemas directory:
 
-index.js: Export your typeDefs and resolvers.
-
 resolvers.js: Define the query and mutation functionality to work with the Mongoose models.
 
 HINT
